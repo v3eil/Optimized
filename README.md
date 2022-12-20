@@ -9,7 +9,6 @@ Vanilla Minecraft with optimization mods for better performance. Currently build
 
 - https://quiltmc.org/
 <br>
-
 ### Mods:
 - [bad packets (1.19.3)](https://modrinth.com/mod/badpackets) ✅
 - [Continuity (1.19.2)](https://modrinth.com/mod/continuity) ❌
