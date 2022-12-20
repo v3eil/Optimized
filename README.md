@@ -1,14 +1,14 @@
-# Optimized
+# Optimized (1.19.3)
 Vanilla Minecraft with optimization mods for better performance. Currently building this pack for Minecraft version 1.19.3
 
-## [Download latest!](https://github.com/v3eil/Optimized/blob/main/optimized_20221220.zip)
+## [Download latest!](https://github.com/v3eil/Optimized/blob/main/1.19.3/1.19.3_latest.zip)
 
 ![I'm Steve!](steve_32px.png)
 
 ### Quilt Loader 0.17.8
 
-- https://quiltmc.org/ <br>
-
+- https://quiltmc.org/
+<br>
 
 ### Mods:
 - [bad packets (1.19.3)](https://modrinth.com/mod/badpackets) ✅
