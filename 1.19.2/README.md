@@ -7,8 +7,7 @@ Vanilla Minecraft with optimization mods for better performance.
 
 ### Quilt Loader 0.17.8
 
-- https://quiltmc.org/
-<br>
+- https://quiltmc.org/ <br>
 
 ### Mods:
 - [bad packets 0.2.1 (1.19.2)](https://modrinth.com/mod/badpackets) ✅
