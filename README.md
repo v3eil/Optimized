@@ -1,6 +1,10 @@
 # Optimized
 Vanilla Minecraft with optimization mods for better performance. Currently building this pack for Minecraft version 1.19.3
 
+## [Download latest!](https://github.com/v3eil/Optimized/blob/main/optimized_20221220.zip)
+
+![I'm Steve!](steve_32px.png)
+
 ## Mods:
 
 - [bad packets (1.19.3)](https://modrinth.com/mod/badpackets) ✅
