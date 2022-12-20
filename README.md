@@ -5,8 +5,12 @@ Vanilla Minecraft with optimization mods for better performance. Currently build
 
 ![I'm Steve!](steve_32px.png)
 
-## Mods:
+### Quilt Loader 0.17.8
 
+- https://quiltmc.org/
+<br>
+
+### Mods:
 - [bad packets (1.19.3)](https://modrinth.com/mod/badpackets) ✅
 - [Continuity (1.19.2)](https://modrinth.com/mod/continuity) ❌
 - [DashLoader (1.19.2)](https://modrinth.com/mod/dashloader) ❌
