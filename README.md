@@ -3,6 +3,7 @@ Vanilla Minecraft with optimization mods for better performance. Currently build
 
 ## Mods:
 
+- [bad packets (1.19.3)](https://modrinth.com/mod/badpackets) ✅
 - [Continuity (1.19.2)](https://modrinth.com/mod/continuity) ❌
 - [DashLoader (1.19.2)](https://modrinth.com/mod/dashloader) ❌
 - [FerriteCore (1.19.3)](https://modrinth.com/mod/ferrite-core) ✅
@@ -18,4 +19,3 @@ Vanilla Minecraft with optimization mods for better performance. Currently build
 - [Sodium (1.19.3)](https://modrinth.com/mod/sodium) ✅
 - [Sodium Extra (1.19.3)](https://modrinth.com/mod/sodium-extra) ✅
 - [WTHIT (1.19.3)](https://modrinth.com/mod/wthit) ✅
-- [bad packets (1.19.3)](https://modrinth.com/mod/badpackets) ✅
