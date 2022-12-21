@@ -17,6 +17,7 @@ Vanilla Minecraft with optimization mods for better performance. Currently build
 - [Indium (1.19.3)](https://modrinth.com/mod/indium) ✅
 - [Iris Shaders (1.19.3)](https://modrinth.com/mod/iris) ✅
 - [LambDynamicLights (1.19.2)](https://modrinth.com/mod/lambdynamiclights) ❌
+- [Lighty (1.19.3)[https://modrinth.com/mod/lighty] ✅
 - [Lithium (1.19.3)](https://modrinth.com/mod/lithium) ✅
 - [Memory Leak Fix (1.19.3)](https://modrinth.com/mod/memoryleakfix) ✅
 - [Mod Menu (1.19.3)](https://modrinth.com/mod/modmenu) ✅
