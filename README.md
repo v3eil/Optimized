@@ -1,7 +1,7 @@
 # Optimized (1.19.3)
 Vanilla Minecraft with optimization mods for better performance. Currently building this pack for Minecraft version 1.19.3
 
-## [Download latest!](https://github.com/v3eil/Optimized/blob/main/1.19.3/1.19.3_latest.zip)
+## [Download latest!](https://github.com/v3eil/Optimized/blob/main/1.19.3/1.19.3_20221227_latest.zip) (Updated: Dec. 27th 2022)
 
 ![I'm Steve!](steve_32px.png)
 
@@ -27,3 +27,7 @@ Vanilla Minecraft with optimization mods for better performance. Currently build
 - [Sodium (1.19.3)](https://modrinth.com/mod/sodium) ✅
 - [Sodium Extra (1.19.3)](https://modrinth.com/mod/sodium-extra) ✅
 - [WTHIT (1.19.3)](https://modrinth.com/mod/wthit) ✅
+
+### Voice Chat:
+- [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) ✅
+- [Cloth Config API](https://modrinth.com/mod/cloth-config) ✅
