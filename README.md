@@ -1,7 +1,7 @@
 # Optimized (1.19.3)
 Vanilla Minecraft with optimization mods for better performance. Currently building this pack for Minecraft version 1.19.3
 
-## [Download latest!](https://github.com/v3eil/Optimized/blob/main/1.19.3/1.19.3_20221227_latest.zip) (Updated: Dec. 27th 2022)
+## [Download latest!](https://github.com/v3eil/Optimized/blob/main/1.19.3/20230103_latest.zip) (Updated: Jan. 3rd 2022)
 
 ![I'm Steve!](steve_32px.png)
 
@@ -10,24 +10,22 @@ Vanilla Minecraft with optimization mods for better performance. Currently build
 - https://quiltmc.org/ <br>
 
 ### Mods:
-- [bad packets (1.19.3)](https://modrinth.com/mod/badpackets) ✅
-- [Continuity (1.19.2)](https://modrinth.com/mod/continuity) ❌
-- [DashLoader (1.19.2)](https://modrinth.com/mod/dashloader) ❌
-- [FerriteCore (1.19.3)](https://modrinth.com/mod/ferrite-core) ✅
-- [Indium (1.19.3)](https://modrinth.com/mod/indium) ✅
-- [Iris Shaders (1.19.3)](https://modrinth.com/mod/iris) ✅
-- [LambDynamicLights (1.19.2)](https://modrinth.com/mod/lambdynamiclights) ✅
-- [Lighty (1.19.3)](https://modrinth.com/mod/lighty) ✅
-- [Lithium (1.19.3)](https://modrinth.com/mod/lithium) ✅
-- [Memory Leak Fix (1.19.3)](https://modrinth.com/mod/memoryleakfix) ✅
-- [Mod Menu (1.19.3)](https://modrinth.com/mod/modmenu) ✅
-- [Phosphor (1.19.3)](https://modrinth.com/mod/phosphor) ✅
-- [Quilted Fabric API BETA (1.19.3)](https://modrinth.com/mod/qsl) ✅
-- [Reese's Sodium Options (1.19.3)](https://modrinth.com/mod/reeses-sodium-options) ✅
-- [Sodium (1.19.3)](https://modrinth.com/mod/sodium) ✅
-- [Sodium Extra (1.19.3)](https://modrinth.com/mod/sodium-extra) ✅
-- [WTHIT (1.19.3)](https://modrinth.com/mod/wthit) ✅
-
-### Voice Chat:
-- [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat) ✅
+- [Architectury API](https://modrinth.com/mod/architectury-api) ✅
+- [bad packets](https://modrinth.com/mod/badpackets) ✅
 - [Cloth Config API](https://modrinth.com/mod/cloth-config) ✅
+- [Continuity](https://modrinth.com/mod/continuity) ❌
+- [DashLoader](https://modrinth.com/mod/dashloader) ✅
+- [FerriteCore](https://modrinth.com/mod/ferrite-core) ✅
+- [Indium](https://modrinth.com/mod/indium) ✅
+- [Iris Shaders](https://modrinth.com/mod/iris) ✅
+- [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) ✅
+- [Light Overlay](https://modrinth.com/mod/light-overlay) ✅
+- [Lithium](https://modrinth.com/mod/lithium) ✅
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) ✅
+- [Mod Menu](https://modrinth.com/mod/modmenu) ✅
+- [Phosphor](https://modrinth.com/mod/phosphor) ✅
+- [Quilted Fabric API BETA](https://modrinth.com/mod/qsl) ✅
+- [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options) ✅
+- [Sodium](https://modrinth.com/mod/sodium) ✅
+- [Sodium Extra](https://modrinth.com/mod/sodium-extra) ✅
+- [WTHIT](https://modrinth.com/mod/wthit) ✅
